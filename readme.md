@@ -1,4 +1,4 @@
-Metacrafters Project: Create a Project
+Metacrafters Project: Create a Token
 
 Description:
 --------------------
